@@ -1,5 +1,6 @@
-# zoo-starter-code
+# Zoo Project
 
-This repository is the website starter code for Assignment 1 - Zoo.
+Group Member Names: David Neuman
+Github Username: davidsneuman [Github](https://github.com/davidsneuman)
 
-[Website link](https://johnnylaicode.github.io/zoo-starter-code/)
+[Website link](https://davidsneuman.github.io/ZooProjectV2/)
